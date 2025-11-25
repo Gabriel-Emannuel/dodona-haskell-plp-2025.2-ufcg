@@ -5,7 +5,10 @@
       "en": "Hello World"
     }
   },
-  "labels": [],
+  "labels": [
+    "ufcg",
+    "plp 2025.2"
+  ],
   "programming_language": "haskell",
   "access": "public",
   "internals": {
