@@ -6,5 +6,10 @@
     }
   },
   "labels": [],
-  "programming_language": "haskell"
+  "programming_language": "haskell",
+  "access": "public",
+  "internals": {
+    "token": "P937qukNGIsWtT27XQ_ZnAbg4M54pWgB5ST95rZN6As75ZEwWHpnH4j7KdUwzvcn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
