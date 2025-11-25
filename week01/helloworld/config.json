@@ -1,0 +1,20 @@
+{
+  "type": "exercise",
+  "programming_language": "haskell",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Voorbeeld oefening",
+      "en": "Example exercise"
+    }
+  },
+  "evaluation": {
+    "handler": "haskell",
+    "image": "dodona-haskell",
+    "time_limit": 10,
+    "memory_limit": 10000000,
+    "network_enabled": true
+  },
+  "labels": ["PLP 2025-2", "UFCG"],
+  "contact": "Monitor Gabriel Emannuel - gabriel.emannuel.gama.andrade@ccc.ufcg.edu.br"
+}
