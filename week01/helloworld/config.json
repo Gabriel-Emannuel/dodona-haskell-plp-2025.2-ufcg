@@ -1,27 +1,10 @@
 {
-  "type": "exercise",
-  "programming_language": "haskell",
-  "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening",
-      "en": "Example exercise"
+      "nl": "Hello World",
+      "en": "Hello World"
     }
   },
-  "evaluation": {
-    "handler": "haskell",
-    "image": "dodona-haskell",
-    "time_limit": 10,
-    "memory_limit": 10000000,
-    "network_enabled": true
-  },
-  "labels": [
-    "PLP 2025-2",
-    "UFCG"
-  ],
-  "contact": "Monitor Gabriel Emannuel - gabriel.emannuel.gama.andrade@ccc.ufcg.edu.br",
-  "internals": {
-    "token": "P937qukNGIsWtT27XQ_ZnAbg4M54pWgB5ST95rZN6As75ZEwWHpnH4j7KdUwzvcn",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  "labels": [],
+  "programming_language": "haskell"
 }
