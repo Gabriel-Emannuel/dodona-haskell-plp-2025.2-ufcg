@@ -5,6 +5,14 @@
       "en": "Hello World"
     }
   },
-  "labels": [],
-  "programming_language": "haskell"
+  "labels": [
+    "ufcg",
+    "plp 2025.2"
+  ],
+  "programming_language": "haskell",
+  "access": "public",
+  "internals": {
+    "token": "P937qukNGIsWtT27XQ_ZnAbg4M54pWgB5ST95rZN6As75ZEwWHpnH4j7KdUwzvcn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
