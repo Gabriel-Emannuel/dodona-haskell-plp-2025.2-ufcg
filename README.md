@@ -10,7 +10,7 @@ Um repositório no Dodona é utilizado para criação de questões, permitindo:
 Pois bem, a seguir está a estrutura de arquivos de uma pasta de exercícios:
 
 ```
-├── config.json // Arquivo padrão de configuração do exercício, apenas copie ele para os próximos diretórios
+├── config.json // Arquivo padrão de configuração do exercício, apenas copie ele para os próximos diretórios (apenas apague o campo `internals`)
 ├── description // Diretório contendo a descrição da atividade, isso será exibido para o aluno!
 │   ├── description.en.md // Arquivo de descrição exibido caso o aluno esteja acessando o dodona em inglês
 │   └── description.nl.md // Arquivo de descrição exibido caso o aluno esteja acessando o dodona em holandês
