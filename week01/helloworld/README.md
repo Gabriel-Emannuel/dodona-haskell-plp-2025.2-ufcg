@@ -1,1 +1,0 @@
-# Exercício base para DoDona UFCG
